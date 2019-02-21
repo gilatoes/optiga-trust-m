@@ -59,12 +59,13 @@ derivation), **RSA® 1024/2048** (sign, verify, key generation, encrypt and decr
 For high level description and some important excerpts from the documentation please refer to [Wiki page](https://github.com/Infineon/optiga-trust-m/wiki)
 
 Other downloadable PDF documents can be found below:
-4. [Release Notes v1.0](documents/OPTIGA_Trust_M1_Release_Notes_v1.00.pdf) (PDF)
-1. [Datasheet v1.5](documents/OPTIGA_Trust_M1_Datasheet_v1.50.pdf) (PDF)
-2. [Host Library Documentation](documents/OPTIGA_Trust_M1_Host_Library_Documentation.chm) (CHM)
-3. [Solution Reference Manual v1.0](documents/OPTIGA_Trust_M1_Solution_Reference_Manual_v1.00.pdf) (PDF)
-3. [Keys and Certificates v1.2](documents/OPTIGA_Trust_M1_Keys_And_Certificates_v1.2.pdf) (PDF)
-4. [Infineon I<sup>2</sup>C protocol specification v2.02](documents/Infineon_I2C_Protocol_v2.02.pdf) (PDF)
+
+1. [Release Notes v1.0](documents/OPTIGA_Trust_M1_Release_Notes_v1.00.pdf) (PDF)
+2. [Datasheet v1.5](documents/OPTIGA_Trust_M1_Datasheet_v1.50.pdf) (PDF)
+3. [Host Library Documentation](documents/OPTIGA_Trust_M1_Host_Library_Documentation.chm) (CHM)
+4. [Solution Reference Manual v1.0](documents/OPTIGA_Trust_M1_Solution_Reference_Manual_v1.00.pdf) (PDF)
+5. [Keys and Certificates v1.2](documents/OPTIGA_Trust_M1_Keys_And_Certificates_v1.2.pdf) (PDF)
+6. [Infineon I<sup>2</sup>C protocol specification v2.02](documents/Infineon_I2C_Protocol_v2.02.pdf) (PDF)
 
 ## <a name="porting_guide"></a>Porting Guide
 You might find a list of supported Platforms [here](pal). These are:
