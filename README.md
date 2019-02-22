@@ -27,20 +27,20 @@
 
 [tocend]: # (toc end)
 
-# Security Chip
+## Security Chip
 
-## <a name="description"></a>Description
+### <a name="description"></a>Description
 
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/optiga_trust_m_uson10.png" width="320">
 
 This repository contains a target-agnostic Software Framework for the OPTIGA™ Trust M1 security chip.
 
-## <a name="summary"></a>Summary
+### <a name="summary"></a>Summary
 As embedded systems (e.g. IoT devices) are increasingly gaining the attention of attackers, Infineon offers the OPTIGA™ Trust M1 as a turnkey security solution for industrial automation systems, smart homes, consumer devices and medical devices. This high-end security controller comes with full system integration support for easy and cost-effective deployment of high-end security for your assets.
 The [OPTIGA™ Trust M1](documents/OPTIGA_Trust_M1_Datasheet_v1.50.pdf) is a security solution based on a secure microntroller. Each device is shipped with a unique elliptic-curve or RSA keypair and a corresponding X.509 certificate.
 OPTIGA™ Trust M1 enables easy integration into existing PKI infrastructure.
 
-## <a name="key_features_and_benefits"></a>Key Features and Benefits
+### <a name="key_features_and_benefits"></a>Key Features and Benefits
 * High-end security controller
 * Common Criteria Certified EAL6+ (high) hardware
 * Turnkey solution
@@ -56,20 +56,20 @@ derivation), **RSA® 1024/2048** (sign, verify, key generation, encrypt and decr
 * Hibernate for zero power consumption
 * Lifetime for Industrial Automation and Infrastructure is 20 years and 15 years for other Application Profiles  
 
-# Get Started
+## Get Started
 
-## <a name="#software_framework_oveview"></a>Software Framework oveview
+### <a name="#software_framework_oveview"></a>Software Framework oveview
 
 ![](https://github.com/Infineon/Assets/blob/master/Pictures/optiga_trust_m_system_block_diagram.jpg)
 
-## <a name="evaluation_development_kits"></a>Evaluation and developement kits
+### <a name="evaluation_development_kits"></a>Evaluation and developement kits
 * OPTIGA™ Trust M1 Evaluation kit (pending)
 * OPTIGA™ Trust M1 Security Shield2Go (pending)
 
-## <a name="application_notes"></a>Application Notes
+### <a name="application_notes"></a>Application Notes
 1. Get started guide (pending)
 
-## <a name="documentation"></a>Documentation
+### <a name="documentation"></a>Documentation
 For high level description and some important excerpts from the documentation please refer to [Wiki page](https://github.com/Infineon/optiga-trust-m/wiki)
 
 Other downloadable PDF documents can be found below:
@@ -81,11 +81,11 @@ Other downloadable PDF documents can be found below:
 5. [Keys and Certificates v1.2](documents/OPTIGA_Trust_M1_Keys_And_Certificates_v1.2.pdf) (PDF)
 6. [Infineon I<sup>2</sup>C protocol specification v2.02](documents/Infineon_I2C_Protocol_v2.02.pdf) (PDF)
 
-# General
+## General
 
-## <a name="contributing"></a>Contributing
+### <a name="contributing"></a>Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## <a name="license"></a>License
+### <a name="license"></a>License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
