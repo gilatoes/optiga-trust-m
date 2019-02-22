@@ -4,18 +4,30 @@
 
 [tocstart]: # (toc start)
 
-* [Description](#description)
-* [Summary](#summary)
-* [Key Features and Benefits](#key_features_and_benefits)
-* [Evaluation and developement kits](#evaluation_development_kits)
-* [Get Started](#get_started)
-* [Overview](#oveview)
-* [Documentation](#documentation)
-* [Porting Guide](#porting_guide)
-* [Contributing](#contributing)
-* [License](#license)
+1. Security Chip
+    * [Description](#description)
+    * [Summary](#summary)
+    * [Key Features and Benefits](#key_features_and_benefits)
+2. Get Started
+    * [Software Framework overview](#software_framework_oveview)
+    * [Evaluation and developement kits](#evaluation_development_kits)
+    * [Application Notes](#application_notes)
+    * [Documentation](#documentation)
+    * [Initialisation hints (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Initialisation-hints)
+    * User API
+        * [Crypt API (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Trust-M1-Crypt-API)
+        * [Util API (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Trust-M1-Util-API)
+    * [Crypto performance (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Crypto-Performance)
+3. Know-How
+    * [Porting guide (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Porting-Guide)
+    * [Shielded Connection 101 (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Shielded-Connection-101)
+4. General
+    * [Contributing](#contributing)
+    * [License](#license)
 
 [tocend]: # (toc end)
+
+# Security Chip
 
 ## <a name="description"></a>Description
 
@@ -44,16 +56,18 @@ derivation), **RSA® 1024/2048** (sign, verify, key generation, encrypt and decr
 * Hibernate for zero power consumption
 * Lifetime for Industrial Automation and Infrastructure is 20 years and 15 years for other Application Profiles  
 
+# Get Started
+
+## <a name="#software_framework_oveview"></a>Software Framework oveview
+
+![](https://github.com/Infineon/Assets/blob/master/Pictures/optiga_trust_m_system_block_diagram.jpg)
+
 ## <a name="evaluation_development_kits"></a>Evaluation and developement kits
 * OPTIGA™ Trust M1 Evaluation kit (pending)
 * OPTIGA™ Trust M1 Security Shield2Go (pending)
 
-## <a name="get_started"></a>Get Started
+## <a name="application_notes"></a>Application Notes
 1. Get started guide (pending)
-
-## <a name="oveview"></a>Overview
-
-![](https://github.com/Infineon/Assets/blob/master/Pictures/optiga_trust_m_system_block_diagram.jpg)
 
 ## <a name="documentation"></a>Documentation
 For high level description and some important excerpts from the documentation please refer to [Wiki page](https://github.com/Infineon/optiga-trust-m/wiki)
@@ -67,11 +81,7 @@ Other downloadable PDF documents can be found below:
 5. [Keys and Certificates v1.2](documents/OPTIGA_Trust_M1_Keys_And_Certificates_v1.2.pdf) (PDF)
 6. [Infineon I<sup>2</sup>C protocol specification v2.02](documents/Infineon_I2C_Protocol_v2.02.pdf) (PDF)
 
-## <a name="porting_guide"></a>Porting Guide
-You might find a list of supported Platforms [here](pal). These are:
-* Infineon XMC4500
-
-For other platform please refer to our porting guide on [Wiki](https://github.com/Infineon/optiga-trust-m/wiki/Porting-Guide) page
+# General
 
 ## <a name="contributing"></a>Contributing
 
