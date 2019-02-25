@@ -4,24 +4,24 @@
 
 [tocstart]: # (toc start)
 
-1. Security Chip
+1. **Security Chip**
     * [Description](#description)
     * [Summary](#summary)
     * [Key Features and Benefits](#key_features_and_benefits)
-2. Get Started
+2. **Get Started**
     * [Software Framework overview](#software_framework_oveview)
     * [Evaluation and developement kits](#evaluation_development_kits)
     * [Application Notes](#application_notes)
     * [Documentation](#documentation)
+3. **Working with the Software Framework**
     * [Initialisation hints (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Initialisation-hints)
-    * User API
+    * [Porting guide (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Porting-Guide)
+    * [Crypto performance (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Crypto-Performance)
+    * [Shielded Connection 101 (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Shielded-Connection-101)
+    * **User API**
         * [Crypt API (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Trust-M1-Crypt-API)
         * [Util API (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Trust-M1-Util-API)
-    * [Crypto performance (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Crypto-Performance)
-3. Know-How
-    * [Porting guide (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Porting-Guide)
-    * [Shielded Connection 101 (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Shielded-Connection-101)
-4. General
+4. **General**
     * [Contributing](#contributing)
     * [License](#license)
 
