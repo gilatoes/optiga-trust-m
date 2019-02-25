@@ -16,6 +16,7 @@
 3. **Working with the Software Framework**
     * [Initialisation hints (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Initialisation-hints)
     * [Porting guide (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Porting-Guide)
+    * [Error Codes (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Device-Error-Codes)
     * [Crypto performance (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Crypto-Performance)
     * [Shielded Connection 101 (Wiki)](https://github.com/Infineon/optiga-trust-m/wiki/Shielded-Connection-101)
     * **User API**
