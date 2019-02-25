@@ -69,6 +69,7 @@ derivation), **RSA® 1024/2048** (sign, verify, key generation, encrypt and decr
 
 ### <a name="application_notes"></a>Application Notes
 1. Get started guide (pending)
+2. [I2C Utilities for OPTIGA™ Trust secure IC](https://github.com/Infineon/i2c-utils-optiga-trust)
 
 ### <a name="documentation"></a>Documentation
 For high level description and some important excerpts from the documentation please refer to [Wiki page](https://github.com/Infineon/optiga-trust-m/wiki)
